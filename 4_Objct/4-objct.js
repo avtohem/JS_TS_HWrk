@@ -15,3 +15,7 @@ u2.name = 'Ramses';
 
 console.dir(u1);
 console.dir(u2);
+
+//u1 and u2 are const - immutable
+//u1 = createUser('Markus Aurelius Modif', 'Romania')
+//u2 = createUser('Markus Aurelius Modif')
